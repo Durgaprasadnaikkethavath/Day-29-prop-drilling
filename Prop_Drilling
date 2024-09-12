@@ -1,0 +1,12 @@
+"Prop_drilling": the prop drilling process are 3 different types.
+
+  1.ContextAPI
+  -Provider
+  -Consumer
+  -Content
+
+  2.UseContext
+  -Provider
+  -Context
+
+  3.Redux
